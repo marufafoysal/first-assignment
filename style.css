@@ -1,0 +1,60 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+body p {
+    font-size: 16px;
+}
+.hero-section{
+    padding-left: 50px;
+  
+    display: flex;
+}
+.first-div{
+    padding-left: 3%;
+    width: 47%;
+    display: flexbox;
+   
+}
+.first-div img {
+    margin-top: 40px;
+    width: 80%;
+}
+.foysal{color: orangered;
+    
+}
+.foysal2{
+    padding-top: 140px;
+
+}
+.button1{
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: orangered;
+    border-radius: 10px;
+   
+}
+#image{
+    width: 50%;
+    padding-left: 50px;
+  
+}
+
+.foysalvhai{
+    background-image: url(images/7.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.foysal122{
+    width: 50%;
+
+}
+.sell{
+margin-top: 100px;
+}
+.boss{
+    text-align: center;
+    margin-top: 60px;
+}
